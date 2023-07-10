@@ -1,0 +1,152 @@
+.flower{
+    border: 1px;
+    background-color: lightblue;
+    display: flex;
+}
+
+
+.heading{
+text-align: center;
+text-align-last: left;
+margin-block:auto;
+padding-left: 100px;
+font-size: x-large;
+font-weight: initial;
+
+}
+
+
+.btn-primary{
+    background-color:rgb(255, 0, 0);
+    border-radius: 10px;
+    padding:10px;
+    color:white;
+    font-weight: bold;
+    font-size: 18px;
+    border-color: white;
+
+}
+
+.flwr-img{
+shape-image-threshold: 50%;
+}
+
+.quotes{
+    text-align-last: initial;
+}
+.png6{
+    background-color:rgb(235, 217, 217) ;
+    image-orientation: initial;
+    border-radius: 250px 250px 0px 0px;
+}
+.png5{
+    background-color: rgb(206, 243, 231);
+    image-orientation: initial;
+    border-radius: 250px 250px 0px 0px;
+}
+
+.png7{
+    background-color: rgb(247, 239, 222);
+    border-top-right-radius: 10%;
+    border-radius: 250px 250px 0px 0px;
+    image-resolution: 100%;
+}
+
+.feature-short-text{
+    text-align: center;
+}
+feature-short-text-imgP{
+    
+    padding-top: 10px;
+}
+
+.pinkflowertree{
+    padding:2px;
+    text-align: center;
+    
+}
+.png-img{
+    display:flex;
+    padding:2px;
+}
+
+
+.off{
+    color: crimson;
+}
+.deal{
+    
+    text-align: center;
+    text-align-last: left;
+    margin-block:auto;
+    padding-left: 200px;
+}
+.dealandimg{
+    
+    border: 1px;
+    background-color: lightblue;
+    display: flex;
+}
+
+.gram{
+    text-align: center;
+}
+
+.insta{
+    padding: 5px;
+    margin:100px;
+}
+
+.fourimg{
+    
+    display: flex;
+    padding: 1px;
+   
+
+}
+
+.bg-img{
+    background-position: cover;
+}
+
+.background{
+    background-image: url("./Rectangle\ 9.png");
+    background-size: cover;
+    margin:100px;
+    background-position: center;
+    height: 300px;
+}
+.flowershop{
+    background-color: black;
+    color:white;
+    height:250px;
+    text-align: center;
+    padding-top: 20px;
+}
+.flow{
+    color: crimson;
+}
+.copy{
+    color: rgb(122, 118, 118);
+}
+.latest-deal{
+    text-align: center;
+    padding-top: 10px;
+    
+}
+
+.Enter{
+    text-align: center;
+    padding :50px;
+
+}
+.email{
+    text-align: center;
+    padding :10px;
+    width: 400px;
+}
+
+.last{
+    text-align: right;
+    padding: -10px 20px 0px 10px;
+}
