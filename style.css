@@ -94,15 +94,13 @@ feature-short-text-imgP{
 
 .insta{
     padding: 5px;
-    margin:100px;
+    margin-left:100px;
+    margin-right:100px;
 }
 
-.fourimg{
-    
+.four-img{
     display: flex;
     padding: 1px;
-   
-
 }
 
 .bg-img{
@@ -122,6 +120,7 @@ feature-short-text-imgP{
     height:250px;
     text-align: center;
     padding-top: 20px;
+    display: flex;
 }
 .flow{
     color: crimson;
@@ -146,7 +145,26 @@ feature-short-text-imgP{
     width: 400px;
 }
 
-.last{
-    text-align: right;
-    padding: -10px 20px 0px 10px;
+.contact{
+    text-align: left;
+    padding-left:150px;
+    padding-top:30px;
+}
+.ima1{
+    padding-right:5px;
+}
+.ima2{
+    padding-right:5px;
+}
+.ima3{
+    padding-right:5px;
+}
+.ima4{
+    padding-right:5px;
+}
+.text{
+    margin-left:140px;
+}
+.page{
+    color: rgb(38, 150, 248);
 }
